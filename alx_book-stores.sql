@@ -137,3 +137,4 @@ if __name__ == "__main__":
     if db_connection.is_connected():
         db_connection.close()
         print("Database connection closed.")
+        
