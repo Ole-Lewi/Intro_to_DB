@@ -1,3 +1,3 @@
 "SHOW TABLES";
-mysql -u root -p alx_book_stores 
+"USE alx_book_stores" 
 ;
