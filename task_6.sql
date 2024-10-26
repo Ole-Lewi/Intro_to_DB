@@ -1,5 +1,5 @@
 
-
+"INSERT INTO customer","124 Happiness Ave."
 USE alx_book_store;
 
 INSERT INTO customer (customer_id, customer_name, email, address)
